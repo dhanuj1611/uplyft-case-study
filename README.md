@@ -18,7 +18,7 @@ This is a case study for Uplyft AI, which involves setting up LocalStack to simu
 
 
 
-### 1. AWS CLI Configuration
+1. AWS CLI Configuration
 
 In this step, we configured AWS CLI to work with LocalStack instead of the actual AWS Cloud. 
 
