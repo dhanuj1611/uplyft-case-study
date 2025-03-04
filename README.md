@@ -8,13 +8,13 @@ This is a case study for Uplyft AI, which involves setting up LocalStack to simu
 
 ## Steps Followed
 
-Start LocalStack.
-Configure AWS CLI (only if you haven't configured it already).
-Create an S3 bucket.
-Upload a file to the S3 bucket.
-Create a Lambda function.
-Invoke the Lambda function.
-Optionally, delete the uploaded file from the S3 bucket and remove the bucket itself.
+# Start LocalStack.
+# Configure AWS CLI (only if you haven't configured it already).
+# Create an S3 bucket.
+# Upload a file to the S3 bucket.
+# Create a Lambda function.
+# Invoke the Lambda function.
+# Optionally, delete the uploaded file from the S3 bucket and remove the bucket itself.
 
 
 
