@@ -21,17 +21,15 @@ This is a case study for Uplyft AI, which involves setting up LocalStack to simu
 1. AWS CLI Configuration
 
 In this step, we configured AWS CLI to work with LocalStack instead of the actual AWS Cloud. 
-
-**Command:**
-```bash
+Command:
 aws configure
-
 
 S Access Key ID: test
 AWS Secret Access Key: test
 Default region name: us-east-1
 Default output format: json
 This configuration allows you to interact with the AWS-like services running on your local machine using LocalStack.
+
 
 2. Create an S3 Bucket in LocalStack
 Next, we created an S3 bucket to simulate AWS S3 operations.
